@@ -9,7 +9,7 @@
 - Responsible for visual presentation and user experience
 
 ### Backend (Business Logic & Data Processing)
-- Python-based backend (FastAPI or Flask)
+- Python-based backend (FastAPI)
 - Processes data and applies business/AI logic
 - Performs complex calculations and operations
 - Acts as the "brain" of the system
